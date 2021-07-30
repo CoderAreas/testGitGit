@@ -13,5 +13,6 @@ public class Test111 {
         System.out.println("hox-fix test");
         System.out.println("test zhy");
         System.out.println("test1 zhy");
+        System.out.println("哈哈哈");
     }
 }
